@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="Layer_1"
+   viewBox="0 0 66.1 24.7"
+   version="1.1"
+   sodipodi:docname="1e9652bec24bcaacf5285be19746a750.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata29">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs27">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="-3.7344423 : 19.50791 : 1"
+       inkscape:vp_y="57.040193 : 207.79369 : 0"
+       inkscape:vp_z="0.61988992 : 17.830819 : 1"
+       inkscape:persp3d-origin="-1.7920909 : 17.813949 : 1"
+       id="perspective838" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient832">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop828" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop830" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient832"
+       id="linearGradient836"
+       x1="4.2875934"
+       y1="11.541318"
+       x2="58.862495"
+       y2="11.541318"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1055"
+     id="namedview25"
+     showgrid="false"
+     inkscape:zoom="11.313709"
+     inkscape:cx="54.679132"
+     inkscape:cy="4.7477285"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Layer_1" />
+  <style
+     id="style2">.st0{fill:#fff}.st1{fill:#f9a83a}</style>
+  <flowRoot
+     xml:space="preserve"
+     id="flowRoot826"
+     style="font-style:normal;font-weight:normal;font-size:17.33333397px;line-height:1.25;font-family:sans-serif;letter-spacing:-0.23999999px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
+       id="flowRegion828"><rect
+         id="rect830"
+         width="34.206287"
+         height="19.887377"
+         x="24.130018"
+         y="-7.2965798" /></flowRegion><flowPara
+       id="flowPara832">ScraS</flowPara></flowRoot>  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.33333397px;line-height:1.25;font-family:'Architects Daughter';-inkscape-font-specification:'Architects Daughter';letter-spacing:-0.23999999px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;"
+     x="1.4223409"
+     y="17.978256"
+     id="text836"><tspan
+       sodipodi:role="line"
+       id="tspan834"
+       x="1.4223409"
+       y="17.978256">Scratux</tspan></text>
+</svg>
