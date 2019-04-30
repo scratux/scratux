@@ -29,9 +29,13 @@
     },
     "linux": {
       "icon": "icons",
+      "category": "development",
       "target": [
         "AppImage",
-        "deb"
+        "deb",
+        "rpm",
+        "pacman",
+        "snap"
       ]
     }
   },
