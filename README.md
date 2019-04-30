@@ -1,5 +1,5 @@
 # Scratux 
-Scratux is a simple project that aims to provide Free/Libre Open Source Linux binaries of Scratch Desktop
+Scratux is a simple project that aims to provide Free/Libre Open Source Linux binaries of Scratch Desktop. Consider it as the unofficial Scratch for Linux.
 
 Since the official Scratch project does not provide binaries for Linux distributions, we created this project so you do not have to download + build from source. Just click and install it.
 
