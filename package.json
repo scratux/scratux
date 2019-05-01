@@ -1,6 +1,6 @@
 {
   "name": "scratux",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A free programming language where you can create your own interactive stories, games, and animations",
   "main": "main.js",
   "scripts": {
