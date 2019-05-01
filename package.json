@@ -29,6 +29,7 @@
     },
     "linux": {
       "icon": "icons",
+      "afterPack": "./afterPack.js",
       "category": "development",
       "target": [
         "AppImage",
