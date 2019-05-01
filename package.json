@@ -29,7 +29,7 @@
     },
     "linux": {
       "icon": "icons",
-      "category": "development",
+      "category": "Education",
       "target": [
         "AppImage",
         "deb",
