@@ -1,11 +1,16 @@
 #!/bin/bash
 # Delete and create new source folder
+ARCH=$1
+
 rm -rf src/
 mkdir src
 cd src
 
 # Clone scratch-desktop and install dependencies
 git clone https://github.com/scratux/scratch-desktop.git .
+if [ "$ARCH" = "armv7l" ]; then
+git checkout develop-armv7l
+fi
 npm install
 
 # Install scratch-gui dependencies
