@@ -9,6 +9,9 @@ Scratux is built-in different languages and is always based on the latest stable
 
 ![Screenshot](https://res.cloudinary.com/canonical/image/fetch/q_auto,f_auto,w_1170/https://dashboard.snapcraft.io/site_media/appmedia/2019/05/window_OLzR3hd.png)
 
+Download/Install
+----
+[Download latest release here](https://scratux.org/#download)
 
 Screenshots
 ----
