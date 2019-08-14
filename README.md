@@ -5,7 +5,22 @@ Basically Scratux is a simple project that aims to provide Free/Libre Open Sourc
 
 Since the official Scratch project does not provide binaries for Linux distributions, we created this project so you do not have to download + build from source. Just click and install it.
 
-Scratux is built-in different languages and is always based on the latest stable Scratch release. (Currently Scratch 3.0)
+Scratux is built-in different languages and is always based on the latest stable Scratch Desktop release. Currently it is fetching Scratch Desktop 3.5.1
+
+![Screenshot](https://res.cloudinary.com/canonical/image/fetch/q_auto,f_auto,w_1170/https://dashboard.snapcraft.io/site_media/appmedia/2019/05/window_OLzR3hd.png)
+
+
+Screenshots
+----
+### Ubuntu 18.04
+
+![Ubuntu](https://res.cloudinary.com/canonical/image/fetch/q_auto,f_auto,w_1170/https://dashboard.snapcraft.io/site_media/appmedia/2019/08/2.png)
+
+### Manjaro
+![Manjaro](https://res.cloudinary.com/canonical/image/fetch/q_auto,f_auto,w_1170/https://dashboard.snapcraft.io/site_media/appmedia/2019/08/3.png)
+
+### Fedora 30
+![Fedora](https://res.cloudinary.com/canonical/image/fetch/q_auto,f_auto,w_1170/https://dashboard.snapcraft.io/site_media/appmedia/2019/08/1.png)
 
 Development
 ----
