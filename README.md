@@ -11,7 +11,7 @@ Scratux is built-in different languages and is always based on the latest stable
 
 Download/Install
 ----
-[Download latest release here](https://scratux.org/#download)
+[Download latest release from the official page](https://scratux.org/#download)
 
 Screenshots
 ----
