@@ -37,17 +37,17 @@ $ chmod +x fetch.sh
 $ ./fetch.sh
 ```
  
- Then you can run Scratux using `yarn` or `npm`:
+ Then you can run Scratux using `npm`:
 
 ```sh
 $ cd src
-$ yarn start // or npm start
+$ npm start
 ```
 or build it by:
 
 ```sh
 $ cd src
-$ yarn run dist // or npm run dist
+$ npm run dist
 ```
 License
 ----
