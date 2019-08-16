@@ -18,4 +18,4 @@ cd node_modules/scratch-gui
 npm install
 BUILD_MODE=dist npm run build
 cd ../../
-npm run fetch
+#npm run fetch
