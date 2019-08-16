@@ -7,7 +7,7 @@ mkdir src
 cd src
 
 # Clone scratch-desktop and install dependencies
-git clone https://github.com/scratux/scratch-desktop.git .
+git clone https://github.com/scratux/scratux-desktop.git .
 if [ "$ARCH" = "armv7l" ]; then
 git checkout develop-armv7l
 fi
