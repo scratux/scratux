@@ -4,5 +4,5 @@ dist: bionic
 node_js: "10"
 before_install: ./fetch.sh
 install:
-  - npm install -g electron-builder
+  - npm install -g electron
 script: ./build.sh
