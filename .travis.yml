@@ -35,7 +35,7 @@ script:
         electronuserland/builder:wine
         /bin/bash -c "./build.sh"
     else
-      /bin/bash -c "./build.sh"
+      /bin/bash -c "./build.sh > output.txt"
     fi
 
 before_cache:
