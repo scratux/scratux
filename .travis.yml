@@ -3,4 +3,6 @@ sudo: required
 dist: bionic
 node_js: "10"
 before_install: ./fetch.sh
+install:
+  - npm install electron-builder@next
 script: ./build.sh
