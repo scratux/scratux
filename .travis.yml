@@ -5,8 +5,5 @@ addons:
     chrome: stable
 node_js:
 - 8
-env:
-  global:
-  - NODE_ENV=production
 before_install: ./fetch.sh
 script: ./build.sh
