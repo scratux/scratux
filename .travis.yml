@@ -44,7 +44,7 @@ deploy:
   provider: releases
   api_key: $GH_TOKEN
   file:
-    - ./*.deb
-    - ./*.AppImage
+    - ./../build/*.deb
+    - ./../build/*.AppImage
   skip_cleanup: true
   draft: true
