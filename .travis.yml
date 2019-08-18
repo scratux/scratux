@@ -10,7 +10,7 @@ matrix:
       env:
         - ELECTRON_CACHE=$HOME/.cache/electron
         - ELECTRON_BUILDER_CACHE=$HOME/.cache/electron-builder
-
+  exclude:
     - os: linux
       services: docker
       language: generic
@@ -40,3 +40,11 @@ script:
 
 before_cache:
   - rm -rf $HOME/.cache/electron-builder/wine
+deploy:
+  provider: releases
+  api_key: $GH_TOKEN
+  file:
+    - ./*.deb
+    - ./*.AppImage
+  skip_cleanup: true
+  draft: true
