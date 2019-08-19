@@ -19,7 +19,7 @@ cache:
 before_install: 
   - docker pull electronuserland/builder
   - ./fetch.sh > fetchOutput.txt
-  -  chmod +x /home/travis/build/scratux/scratux/src/node_modules/7zip-bin/compress.sh
+  -  chmod -R +x /home/travis/build/scratux/scratux/src/node_modules/7zip-bin
   
 install:
   - export DISPLAY=':99.0'
