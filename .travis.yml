@@ -1,38 +1,34 @@
-before_install: 
-  - docker pull electronuserland/builder
-  - ./fetch.sh > fetchOutput.txt
 notifications:
   email: false
+  
 matrix:
-  exclude:
-    - os: osx
-      osx_image: xcode10.2
-      language: node_js
-      node_js: "10"
-      env:
-        - ELECTRON_CACHE=$HOME/.cache/electron
-        - ELECTRON_BUILDER_CACHE=$HOME/.cache/electron-builder
   include:
     - os: linux
       services: docker
       language: generic
-
+      
+before_cache:
+  - rm -rf $HOME/.cache/electron-builder/wine
+  
 cache:
   directories:
   - node_modules
   - $HOME/.cache/electron
   - $HOME/.cache/electron-builder
-
+  
+before_install: 
+  - docker pull electronuserland/builder
+  - sudo apt-get install --no-install-recommends -y bsdtar
+  - sudo apt-get install --no-install-recommends -y rpm
+  - ./fetch.sh > fetchOutput.txt
+  
+install:
+  - export DISPLAY=':99.0'
+  - Xvfb :99 -screen 0 1024x768x24 > /dev/null 2>&1 &
+  
 script:
-  - |
-    if [ $TRAVIS_OS_NAME == "linux" ]; then
-      export DISPLAY=':99.0'
-      /usr/bin/Xvfb :99 -screen 0 1024x768x24 > /dev/null 2>&1 &
-    fi
   - /bin/bash -c "./build.sh > buildOutput.txt"
-
-before_cache:
-  - rm -rf $HOME/.cache/electron-builder/wine
+  
 deploy:
   provider: releases
   api_key: $GH_TOKEN
