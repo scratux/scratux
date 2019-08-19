@@ -1,5 +1,5 @@
 before_install: 
-  - docker pull electronuserland/build
+  - docker pull electronuserland/builder
   - ./fetch.sh > fetchOutput.txt
 notifications:
   email: false
