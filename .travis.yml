@@ -1,6 +1,5 @@
 before_install: 
-  - docker pull electronuserland/builder:12
-  - sudo apt install libdbus-1-3
+  - docker pull electronuserland/builder
   - ./fetch.sh > fetchOutput.txt
 notifications:
   email: false
@@ -25,6 +24,11 @@ cache:
   - $HOME/.cache/electron-builder
 
 script:
+  - |
+    if [ $TRAVIS_OS_NAME == "linux" ]; then
+      export DISPLAY=':99.0'
+      /usr/bin/Xvfb :99 -screen 0 1024x768x24 > /dev/null 2>&1 &
+    fi
   - /bin/bash -c "./build.sh > buildOutput.txt"
 
 before_cache:
