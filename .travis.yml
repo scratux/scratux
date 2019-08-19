@@ -17,9 +17,7 @@ cache:
   - $HOME/.cache/electron-builder
   
 before_install: 
-  - docker pull electronuserland/builder
-  - sudo apt-get install --no-install-recommends -y bsdtar
-  - sudo apt-get install --no-install-recommends -y rpm
+  - docker pull electronuserland/builder:wine-chrome
   - ./fetch.sh > fetchOutput.txt
   
 install:
