@@ -18,6 +18,7 @@ cache:
   
 before_install: 
   - docker pull electronuserland/builder
+  - sudo apt install xz-utils
   - ./fetch.sh > fetchOutput.txt
   -  chmod -R +x /home/travis/build/scratux/scratux/src/node_modules/7zip-bin
   
