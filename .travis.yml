@@ -10,6 +10,7 @@ matrix:
 before_install: 
   - docker pull electronuserland/builder
   - sudo apt install xz-utils
+  - sudo apt install libdbus-1-3
   - sudo apt-get install --no-install-recommends -y gcc-multilib g++-multilib
   - sudo apt-get install --no-install-recommends -y rpm
   - ./fetch.sh > fetchOutput.txt
