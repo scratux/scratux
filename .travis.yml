@@ -1,5 +1,5 @@
 before_install: 
-  - docker pull electronuserland/builder
+  - docker pull electronuserland/builder:wine-chrome
   - sudo apt install libdbus-1-3
   - ./fetch.sh > fetchOutput.txt
 notifications:
