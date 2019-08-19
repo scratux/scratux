@@ -13,7 +13,6 @@ before_install:
   - sudo apt-get install --no-install-recommends -y gcc-multilib g++-multilib
   - sudo apt-get install --no-install-recommends -y rpm
   - ./fetch.sh > fetchOutput.txt
-  -  chmod -R +x /home/travis/build/scratux/scratux/src/node_modules/7zip-bin
   
 install:
   - export DISPLAY=':99.0'
