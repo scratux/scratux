@@ -1,9 +1,14 @@
 notifications:
   email: false
-language: node_js
-dist: bionic
-node_js: "10"
+  
+matrix:
+  include:
+    - os: linux
+      services: docker
+      language: generic
+      
 before_install: 
+  - docker pull electronuserland/builder
   - sudo apt install xz-utils
   - sudo apt install libdbus-1-3
   - sudo apt-get install --no-install-recommends -y gcc-multilib g++-multilib
