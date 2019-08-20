@@ -46,9 +46,10 @@ $ npm start
 or build it by:
 
 ```sh
-$ cd src
-$ npm run dist
+$ ./build.sh
 ```
+[More info in the wiki](https://github.com/scratux/scratux/wiki/Development)
+
 License
 ----
 Licensed under BSD-3-Clause
