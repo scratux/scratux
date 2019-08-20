@@ -15,6 +15,7 @@ fi
 
 if [ "$BRANCH" = "unstable" ]; then
 git checkout develop-unstable
+git clone https://github.com/scratux/scratux-i18n.git ./src/translations
 fi
 
 npm install
