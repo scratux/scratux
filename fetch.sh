@@ -16,7 +16,10 @@ fi
 if [ "$BRANCH" = "unstable" ]; then
 git checkout develop-unstable
 cd src/translations
-git clone https://github.com/scratux/scratux-i18n.git .
+git init
+git remote add origin https://github.com/scratux/scratux-i18n.git
+git fetch
+git pull origin master
 cd ../../
 fi
 
