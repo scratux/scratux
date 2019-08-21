@@ -27,17 +27,17 @@ Screenshots
 
 Development
 ----
-First, download this branch and run the `fetch.sh` script. This will donwload our latest `scratch-desktop` and `scratch-gui` custom repositories and will initialize them.
+First, download this branch and run the `fetch.sh` script. This will donwload our latest `scratux-desktop`, `scratux-gui` and `scratux-i18n` repositories and will initialize them.
 
 ```sh
 $ git clone https://github.com/scratux/scratux.git
 $ cd scratux
 $ git checkout master
 $ chmod +x fetch.sh
-$ ./fetch.sh
+$ ./fetch.sh 
 ```
  
- Then you can run Scratux using `npm`:
+ Then you can run Scratux using `yarn` or `npm`:
 
 ```sh
 $ cd src
@@ -46,9 +46,14 @@ $ npm start
 or build it by:
 
 ```sh
-$ ./build.sh
+./build.sh
 ```
 [More info in the wiki](https://github.com/scratux/scratux/wiki/Development)
+
+Get Involved
+----
+* Report bugs and request features. 
+* Help translating Scratux using our [our web interface](https://poeditor.com/join/project/ONVBkRVtur). 
 
 License
 ----
