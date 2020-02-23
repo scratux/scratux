@@ -10,18 +10,23 @@ cd src
 git clone https://github.com/scratux/scratux-desktop.git .
 
 if [ "$BRANCH" = "armv7l" ]; then
-git checkout develop-armv7l
+git checkout develop-armv7l # Checkout arm branch if requested
 fi
 
 if [ "$BRANCH" = "unstable" ]; then
-git checkout develop-unstable
-cd src/translations
+git checkout develop-unstable # Checkout unstable branch if requested
+fi
+
+# Clone i18 translations repo
+mkdir static
+cd static
+mkdir translations
+cd translations
 git init
 git remote add origin https://github.com/scratux/scratux-i18n.git
 git fetch
 git pull origin master
 cd ../../
-fi
 
 npm install
 
