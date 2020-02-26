@@ -52,9 +52,8 @@ or build it by:
 
 Get Involved
 ----
-* Report bugs and request features. 
+* Test, report bugs and request new features. 
 * Help translating Scratux using our [our web interface](https://poeditor.com/join/project/ONVBkRVtur). 
-* You can also donate to this project via [Patreon](https://www.patreon.com/scratux)
 
 License
 ----
