@@ -53,7 +53,9 @@ or build it by:
 Get Involved
 ----
 * Test, report bugs and request new features. 
-* Help translating Scratux using our [our web interface](https://poeditor.com/join/project/ONVBkRVtur). 
+* Help translating Scratux using our [our web interface](https://poeditor.com/join/project/ONVBkRVtur).
+* Support the project by making a donation [via PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=G6SYNUVY4ZUPW&source=url). This helps us to cover domain, email and development costs.
+
 
 License
 ----
