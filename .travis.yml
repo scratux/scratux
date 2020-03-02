@@ -21,6 +21,7 @@ install:
   
 script:
   - nohup ./build.sh > /dev/null 2>&1 &
+  - ls
   
 deploy:
   provider: releases
