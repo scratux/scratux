@@ -7,7 +7,7 @@ Since the official Scratch project does not provide binaries for Linux distribut
 
 Scratux is built-in different languages and is always based on the latest stable Scratch Desktop release. Currently it is fetching Scratch Desktop 3.5.1
 
-![Screenshot](https://res.cloudinary.com/canonical/image/fetch/q_auto,f_auto,w_1170/https://dashboard.snapcraft.io/site_media/appmedia/2019/05/window_OLzR3hd.png)
+![Screenshot](https://dashboard.snapcraft.io/site_media/appmedia/2020/03/window_OLzR3hd.png)
 
 Download/Install
 ----
