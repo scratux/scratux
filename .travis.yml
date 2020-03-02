@@ -13,14 +13,14 @@ before_install:
   - sudo apt install libdbus-1-3
   - sudo apt-get install --no-install-recommends -y gcc-multilib g++-multilib
   - sudo apt-get install --no-install-recommends -y rpm
-  - ./fetch.sh > /dev/null
+  - nohup ./fetch.sh > /dev/null 2>&1 &
   
 install:
   - export DISPLAY=':99.0'
   - Xvfb :99 -screen 0 1024x768x24 > /dev/null 2>&1 &
   
 script:
-  - ./build.sh > buildOutput.txt
+  - nohup ./build.sh > /dev/null 2>&1 &
   
 deploy:
   provider: releases
