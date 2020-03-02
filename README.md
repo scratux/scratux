@@ -1,4 +1,4 @@
-# Scratux [![Build Status](https://travis-ci.org/scratux/scratux.svg?branch=master)](https://travis-ci.org/scratux/scratux)
+# Scratux 
 Scratux is a block-based visual programming language targeted primarily at children. Users can create projects using a block-like interface. With Scratux, you can program your own interactive stories, games, and animations — and share your creations with others in the online community.
 
 Basically Scratux is a simple project that aims to provide Free/Libre Open Source Linux binaries of Scratch Desktop. So consider it as the unofficial Scratch for Linux ;)
