@@ -17,13 +17,13 @@ Screenshots
 ----
 ### Ubuntu 18.04
 
-![Ubuntu](https://res.cloudinary.com/canonical/image/fetch/q_auto,f_auto,w_1170/https://dashboard.snapcraft.io/site_media/appmedia/2019/08/2.png)
+![Ubuntu](https://dashboard.snapcraft.io/site_media/appmedia/2020/03/Screenshot_from_2020-03-01_16-26-24.png)
 
 ### Manjaro
-![Manjaro](https://res.cloudinary.com/canonical/image/fetch/q_auto,f_auto,w_1170/https://dashboard.snapcraft.io/site_media/appmedia/2019/08/3.png)
+![Manjaro](https://dashboard.snapcraft.io/site_media/appmedia/2020/03/2.jpg)
 
 ### Fedora 30
-![Fedora](https://res.cloudinary.com/canonical/image/fetch/q_auto,f_auto,w_1170/https://dashboard.snapcraft.io/site_media/appmedia/2019/08/1.png)
+![Fedora](https://dashboard.snapcraft.io/site_media/appmedia/2020/03/3.jpg)
 
 Development
 ----
