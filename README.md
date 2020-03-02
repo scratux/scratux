@@ -32,7 +32,6 @@ First, download this branch and run the `fetch.sh` script. This will donwload ou
 ```sh
 $ git clone https://github.com/scratux/scratux.git
 $ cd scratux
-$ git checkout master
 $ chmod +x fetch.sh
 $ ./fetch.sh 
 ```
