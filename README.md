@@ -1,9 +1,7 @@
 # Scratux 
 Scratux is a block-based visual programming language targeted primarily at children. Users can create projects using a block-like interface. With Scratux, you can program your own interactive stories, games, and animations — and share your creations with others in the online community.
 
-Basically Scratux is a simple project that aims to provide Free/Libre Open Source Linux binaries of Scratch Desktop. So consider it as the unofficial Scratch for Linux ;)
-
-Since the official Scratch project does not provide binaries for Linux distributions, we created this project so you do not have to download + build from source. Just click and install it.
+Basically Scratux is a simple project that aims to provide Free/Libre Open Source Linux binaries of Scratch Desktop. Since the official Scratch project does not provide binaries for Linux distributions, we created this project so you do not have to download + build from source. Just click and install it.
 
 Scratux is built-in different languages and is always based on the latest stable Scratch Desktop release. Currently it is fetching Scratch Desktop 3.8.0
 
