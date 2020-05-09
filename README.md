@@ -13,8 +13,7 @@ Download/Install
 
 Screenshots
 ----
-### Ubuntu 20.04 / 18.04 / 16.04
-
+### Ubuntu
 ![Ubuntu](https://dashboard.snapcraft.io/site_media/appmedia/2020/05/scratux_ubuntu_2004_RPhn0Ev.png)
 
 ### Manjaro
