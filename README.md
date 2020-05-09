@@ -21,7 +21,7 @@ Screenshots
 ![Manjaro](https://dashboard.snapcraft.io/site_media/appmedia/2020/05/scratux_manjaro.png)
 
 ### Fedora
-![Fedora](https://dashboard.snapcraft.io/site_media/appmedia/2020/03/3.jpg)
+![Fedora](https://dashboard.snapcraft.io/site_media/appmedia/2020/05/fedora_scratux.png)
 
 Development
 ----
