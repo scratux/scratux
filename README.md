@@ -18,7 +18,7 @@ Screenshots
 ![Ubuntu](https://dashboard.snapcraft.io/site_media/appmedia/2020/05/scratux_ubuntu_2004_RPhn0Ev.png)
 
 ### Manjaro
-![Manjaro](https://dashboard.snapcraft.io/site_media/appmedia/2020/05/scratux_manjaro.png)
+![Manjaro](https://dashboard.snapcraft.io/site_media/appmedia/2020/05/scratux_manjaro_SfK6wYb.png)
 
 ### Fedora
 ![Fedora](https://dashboard.snapcraft.io/site_media/appmedia/2020/05/fedora_scratux_dSrC33b.png)
