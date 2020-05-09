@@ -3,7 +3,7 @@ Scratux is a block-based visual programming language targeted primarily at child
 
 Basically Scratux is a simple project that aims to provide Free/Libre Open Source Linux binaries of Scratch Desktop. Since the official Scratch project does not provide binaries for Linux distributions, we created this project so you do not have to download + build from source. Just click and install it.
 
-Scratux is built-in different languages and is always based on the latest stable Scratch Desktop release. Currently it is fetching Scratch Desktop 3.8.0
+Scratux is built-in different languages and is always based on the latest stable Scratch Desktop release. Currently it is fetching Scratch Desktop 3.10.2
 
 ![Screenshot](https://dashboard.snapcraft.io/site_media/appmedia/2020/03/window_OLzR3hd.png)
 
@@ -13,14 +13,14 @@ Download/Install
 
 Screenshots
 ----
-### Ubuntu 18.04
+### Ubuntu 20.04 / 18.04 / 16.04
 
-![Ubuntu](https://dashboard.snapcraft.io/site_media/appmedia/2020/03/Screenshot_from_2020-03-01_16-26-24.png)
+![Ubuntu](https://dashboard.snapcraft.io/site_media/appmedia/2020/05/scratux_ubuntu_2004.png)
 
 ### Manjaro
-![Manjaro](https://dashboard.snapcraft.io/site_media/appmedia/2020/03/2.jpg)
+![Manjaro](https://dashboard.snapcraft.io/site_media/appmedia/2020/05/scratux_manjaro.png)
 
-### Fedora 30
+### Fedora
 ![Fedora](https://dashboard.snapcraft.io/site_media/appmedia/2020/03/3.jpg)
 
 Development
