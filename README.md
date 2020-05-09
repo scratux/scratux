@@ -15,13 +15,13 @@ Screenshots
 ----
 ### Ubuntu 20.04 / 18.04 / 16.04
 
-![Ubuntu](https://dashboard.snapcraft.io/site_media/appmedia/2020/05/scratux_ubuntu_2004.png)
+![Ubuntu](https://dashboard.snapcraft.io/site_media/appmedia/2020/05/scratux_ubuntu_2004_RPhn0Ev.png)
 
 ### Manjaro
 ![Manjaro](https://dashboard.snapcraft.io/site_media/appmedia/2020/05/scratux_manjaro.png)
 
 ### Fedora
-![Fedora](https://dashboard.snapcraft.io/site_media/appmedia/2020/05/fedora_scratux.png)
+![Fedora](https://dashboard.snapcraft.io/site_media/appmedia/2020/05/fedora_scratux_dSrC33b.png)
 
 Development
 ----
